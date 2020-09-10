@@ -1,0 +1,8 @@
+name: CortexCore
+version: ${project.version}
+main: cortex.cortexcore.CortexCoreMain
+api-version: 1.16
+load: STARTUP
+authors: [CommanderCortex]
+description: MainDepend For Cortex Plugins
+website: www.github.com/CommanderCortex
